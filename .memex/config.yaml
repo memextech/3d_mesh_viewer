@@ -1,0 +1,43 @@
+card_image: ''
+created_at: 2025-02-19 19:53:24.729687
+creator_id: unknown
+deployment:
+  last_deployed: null
+  type: null
+  url: ''
+description: Visualize 3D STL and 3MF mesh objects using Python and Streamlit
+domain: ''
+features:
+- ''
+getting_started_screen: false
+getting_started_screen_index: 0
+git:
+  branch: null
+  remote: null
+  url: ''
+hero_image: ''
+icon: ''
+is_published: false
+pills:
+- icon: ''
+  label: ''
+  prompt: ''
+project_id: ''
+published_at: null
+requirements:
+- description: ''
+  type: ''
+slug: ''
+storage:
+  compression_enabled: null
+  gcs_path: null
+  last_sync: null
+  max_file_size_mb: null
+  size_bytes: null
+title: 3D Mesh Viewer
+tools:
+- name: ''
+  role: ''
+  type: ''
+  version: ''
+updated_at: 2025-02-19 19:53:24.729740

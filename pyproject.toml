@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "3d-mesh-visualizer"
+version = "0.1.0"
+description = "Interactive web application for visualizing 3D mesh files (STL and 3MF)"
+authors = ["Marcin"]
+readme = "README.md"
+packages = [{include = "mesh_visualizer"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.42.1"
+numpy = "^2.2.3"
+trimesh = "^4.6.2"
+plotly = "^6.0.0"
+networkx = "^3.4.2"
+lxml = "^5.3.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
